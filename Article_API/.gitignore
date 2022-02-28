@@ -1,0 +1,3 @@
+fastapi_venv/
+__pycache__
+alembic/
